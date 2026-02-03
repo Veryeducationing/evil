@@ -1,0 +1,16 @@
+{
+  "swfs": [
+    {
+      "location": "swfs/SSF21401.swf",
+      "title": "SSF2",
+      "author": "McLeodGaming, Veryeducationing, formerlegend3323",
+      "authorLink": "https://www.mcleodgaming.com",
+      "config": {
+        "autoplay": "on",
+        "forceScale": false,
+        "forceAlign": false
+  
+      }
+    }
+  ]
+}
